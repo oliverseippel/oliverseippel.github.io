@@ -1,0 +1,19 @@
+@charset "utf8";
+
+html {
+    background:linear-gradient(to bottom right, rgb(63, 3, 3) 5%, rgba(0, 0, 0, 0.938) 50%) no-repeat;
+    background-size: cover;
+    height: 110vh;
+}
+
+section {
+    color:rgb(0, 255, 255);
+}
+
+header {
+    color: rgb(255, 238, 3);
+};
+
+body {
+    font-family:monospace;
+}
