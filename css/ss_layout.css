@@ -196,3 +196,6 @@ html {
     overflow-y: scroll;
 }
 
+ol {
+   padding-left: 20%;
+}
